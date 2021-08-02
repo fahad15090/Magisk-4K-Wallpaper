@@ -1,36 +1,39 @@
  #Magisk-4K Wallpaper
  # Desktop :~
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-4K-full-01.png?token=AOP7TQBX3SBDU22HEVLBWALBA5QMO)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-4K-full-01.png?raw=true)
 **click on image to save it!**
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-4K-full-black-blue_magisk-4K-black.png?token=AOP7TQANOKQWW3XGZOE7NM3BA5Q2S)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-4K-full-black-blue_magisk-4K-black.png?raw=true)
 **click on image to save it!**
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-4K-full-white-black_magisk-4K-black.png?token=AOP7TQE6AWPYNEI2H2BA4FDBA5Q4Q)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-4K-full-white-black_magisk-4K-black.png?raw=true)
 **click on image to save it!**
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-mobile-full-01.png?token=AOP7TQCJ6X3S3Z5RSUEC3OLBA5RCC)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-4K-full.png?raw=true)
 **click on image to save it!**
 
 # Mobile :~
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-mobile-full-black-01.png?token=AOP7TQBO4CU75HJ472CJYVDBA5RDS)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-mobile-full-01.png?raw=true)
 **click on image to save it!**
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-mobile-full-left-01.png?token=AOP7TQANTVM45QJ3TYBF5ZLBA5RGY)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-mobile-full-black-01.png?raw=true)
 **click on image to save it!**
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-mobile-left-01.png?token=AOP7TQEAIW7ER5XRAJBXAELBA5RKY)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-mobile-full-left-01.png?raw=true)
 **click on image to save it!**
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-mobile-left-white-01.png?token=AOP7TQAUYIWBRCAXOQAIERTBA5ROM)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-mobile-left-01.png?raw=true)
 **click on image to save it!**
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-mobile-right-01.png?token=AOP7TQAJ3CIZMEAA4YBCI4TBA5RQ2)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-mobile-left-black-01.png?raw=true)
 **click on image to save it!**
 
-![Alt Text](https://raw.githubusercontent.com/fahad15090/Magisk-Wallpaper/main/magisk-mobile-right-black-01%20(2).png?token=AOP7TQBBJZEY6J7AL3J7DDLBA5RSG)
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-mobile-right-01.png?raw=true)
+**click on image to save it!**
+
+![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-mobile-right-black-01%20(2).png?raw=true)
 **click on image to save it!**
 
 ## All COPYRIGHT ©️ goes to Magisk Creater TopJohnWu
