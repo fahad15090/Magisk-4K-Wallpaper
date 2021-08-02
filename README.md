@@ -1,6 +1,6 @@
- # Magisk-4K Wallpaper 
- # Desktop :~
-**click on image to save it!**
+ # Magisk-4K Wallpaper 😎 
+ # Desktop 🖥:~
+*Hold on image then wait for popup appears!*
 
 ![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-4K-full-01.png?raw=true)
 
@@ -14,7 +14,7 @@
 ![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-4K-full.png?raw=true)
 
 
-# Mobile :~
+# Mobile 📱:~
 
 ![alt text](https://github.com/fahad15090/Magisk-Wallpaper/blob/main/magisk-mobile-full-01.png?raw=true)
 
